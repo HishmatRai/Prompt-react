@@ -31,3 +31,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+/* ====================================== */
+#border{
+border: 2px solid red ;
+ width: 60%;
+ margin:auto
+}

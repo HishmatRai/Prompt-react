@@ -1,0 +1,24 @@
+#LoginBtn{
+    padding: 10px 50px 10px 50px;
+    background: none;
+    border: 2px solid rgb(32, 165, 189);
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 20px
+
+
+}
+#LoginBtn:hover{
+    padding: 10px 50px 10px 50px;
+    background-color: rgb(32, 165, 189);
+    border: 2px solid rgb(32, 165, 189);
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px
+
+
+    
+
+
+}

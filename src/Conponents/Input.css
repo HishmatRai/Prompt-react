@@ -1,0 +1,14 @@
+#input1{
+    padding: 5px 100px 5px 100px;
+    border-radius: 10px;
+    border: 2px solid rgb(32, 165, 189);
+    font-size: 20px;
+    width : 40%
+}   
+
+
+@media only screen and (max-width: 600px) {
+    #input1 {
+        padding: 5px 40px 5px 40px;
+    }
+  }
